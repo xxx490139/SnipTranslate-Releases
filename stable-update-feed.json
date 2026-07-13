@@ -3,12 +3,12 @@
   "releases": [
     {
       "channel": "stable",
-      "version": "0.1.0.17",
-      "publishedAtUtc": "2026-07-13T15:32:02.5791001+00:00",
-      "releaseNotes": "完成只限本機的可信任簽章與 GitHub 線上更新發布流程，並包含圖片原位翻譯與穩定性改善。",
-      "downloadSizeBytes": 165914608,
-      "downloadUri": "https://github.com/xxx490139/SnipTranslate-Releases/releases/download/v0.1.0.17/SnipTranslate-0.1.0.17-win-x64-setup.exe",
-      "downloadSha256": "41520082aed9da41a1812fcdf9efd51f80839a82c8584b2d8c49fda6cebe3d14",
+      "version": "0.1.0.19",
+      "publishedAtUtc": "2026-07-13T15:59:10.1462399+00:00",
+      "releaseNotes": "修正安裝檔產品名稱尾端空白造成的更新驗證誤判，並完成線上更新穩定性改善。",
+      "downloadSizeBytes": 165891400,
+      "downloadUri": "https://github.com/xxx490139/SnipTranslate-Releases/releases/download/v0.1.0.19/SnipTranslate-0.1.0.19-win-x64-setup.exe",
+      "downloadSha256": "f409a2ad5d82566b4a93ae78f4388348d4344d30bd0694c62b894ff2fad18290",
       "authenticodePublisher": "CN=SnipTranslate Development"
     }
   ]
